@@ -17,3 +17,6 @@ github_username:  agirorn
 
 # Build settings
 markdown: kramdown
+exclude: [
+  '**/node_modules'
+]
