@@ -2,10 +2,10 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'jekyll', '>= 4.0.0'
+gem 'jekyll', '>= 3.8.6'
 
-gem 'github-pages', '>= 204', group: :jekyll_plugins
+gem 'github-pages', '>= 224', group: :jekyll_plugins
 
-gem 'guard'
+gem 'guard', '>= 2.14.1'
 gem 'guard-jekyll-plus', '>= 2.0.2'
 gem 'guard-livereload'
