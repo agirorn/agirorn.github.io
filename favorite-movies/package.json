@@ -18,7 +18,7 @@
     ]
   },
   "dependencies": {
-    "css-loader": "^0.23.1",
+    "css-loader": "^1.0.0",
     "underscore": "^1.8.3",
     "vue": "^1.0.0",
     "vue-loader": "^8.5.2",
